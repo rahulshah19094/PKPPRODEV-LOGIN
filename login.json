@@ -1,5 +1,7 @@
 {
-  "password": "pkp1234",
-  "message": "Welcome to PKP Login!",
-  "version": "1.0"
+  "PKPPRODEV": {
+    "token": "abcde12345",
+    "EXP": "2030-01-01",
+    "rng": 1690000000
+  }
 }
